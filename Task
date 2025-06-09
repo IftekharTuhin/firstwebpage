@@ -1,0 +1,17 @@
+<!-- You're asked to create a book ranking webpage that includes:
+
+H1: Website title
+
+H2: Subtitle
+
+<hr />: Horizontal rule (void element)
+
+Three books, each with:
+
+An H3 for the book title with the aurthor name
+
+A paragraph explaining why you liked it
+
+Use proper HTML structure
+
+Optional: Add flair with extra formatting (e.g., more paragraphs, breaks in poems, etc.) -->
